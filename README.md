@@ -10,20 +10,20 @@ This project works on one CSV data file, that CSV file contains all the emploees
 
 In this project i had used several python libraries :
 
-1) Libraries for Analysis
-   numpy 
+1) Libraries for Analysis ||
+   numpy and
    pandas 
    
-2) Libraries for visualization
-   matplotlib.pyplot
+2) Libraries for visualization ||
+   matplotlib.pyplot and
    seaborn 
    
-3) Libraries for train test split
+3) Libraries for train test split ||
    train_test_split
 
-4) Library for Scaling
+4) Library for Scaling ||
    StandardScaler
 
-5) Library for Model Building
+5) Library for Model Building ||
    LinearRegression
 
