@@ -27,3 +27,12 @@ This project works on one CSV data file, that CSV file contains all the emploees
 5) Library for Model Building ||
    LinearRegression
 
+PROJECT OVERVEIW :
+
+1) Import Datasets
+2) Data Cleaning and Data Preparation
+3) Exploratory Data Analysis
+4) Feature Engineering
+5) Train Test Split
+6) Model Building
+7) Model Evaluation
