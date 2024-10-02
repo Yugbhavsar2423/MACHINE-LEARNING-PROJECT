@@ -1,40 +1,35 @@
-# MACHINE-LEARNING-PROJECT
-Hello peers 👋🏻
+Overview:
+This project builds a machine learning model to predict salaries based on features like education, experience, and location. The goal is to develop a robust prediction model using various algorithms.
 
-◼ MACHINE LEARNING PROJECT 
+Structure:
+Notebooks: Contains Jupyter notebooks with the full pipeline from data processing to model evaluation.
 
-This is the machine learning project with the uses of python.
-This model will pedict the salary, this project about the salary prediction of blatimore emploees.
-This model contain the data visulization.
-This project works on one CSV data file, that CSV file contains all the emploees data. 
+Data: Holds the dataset used for training/testing.
 
- ~ In this project i had used several python libraries :
+Models: Stores trained models for easy inference.
 
-1) Libraries for Analysis ||
-   numpy and
-   pandas 
-   
-2) Libraries for visualization ||
-   matplotlib.pyplot and
-   seaborn 
-   
-3) Libraries for train test split ||
-   train_test_split
+Scripts: Includes Python scripts for data preprocessing and model training.
 
-4) Library for Scaling ||
-   StandardScaler
+requirements.txt: Lists all dependencies needed to run the project.
 
-5) Library for Model Building ||
-   LinearRegression
+README.md: Project overview and setup instructions.
 
+Key Features:
 
+1)Data cleaning and preprocessing.
 
-PROJECT OVERVEIW :
+2)Training multiple models (Linear Regression, Random Forest, etc.).
 
-1) Import Datasets
-2) Data Cleaning and Data Preparation
-3) Exploratory Data Analysis
-4) Feature Engineering
-5) Train Test Split
-6) Model Building
-7) Model Evaluation
+3)Evaluation using metrics like RMSE and R^2.
+
+4)Feature importance analysis.
+
+Usage:
+
+Clone the repository.
+Install dependencies: pip install -r requirements.txt.
+Run the Jupyter notebook for model training or use pre-trained models for predictions.
+
+Future Work:
+
+Hyperparameter tuning and cloud deployment.
